@@ -1,0 +1,6 @@
+/.metadata/
+node_modules/
+dist/
+build/
+.env
+*.log
